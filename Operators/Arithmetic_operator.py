@@ -1,0 +1,10 @@
+x= int(input("Input value x :"))
+y= int(input("Input value y :"))
+
+print("Sum :" ,(x+y))
+print("Subtract :" ,(x-y))
+print("Multiply :" ,(x*y))
+print("Divide :" ,(x/y))
+print("Modulus :" ,(x%y))
+print("Floor division :" ,(x//y))
+print("exponent :" ,(x**y))
